@@ -1,0 +1,159 @@
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe.config
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.pdb
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\bin\Debug\MySqlConnector.dll
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\bin\Debug\MySqlConnector.xml
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csprojResolveAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft._1Principal.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Dashboard.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Form2.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ListadoProyectos.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Login.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoPersonal.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoProyecto.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.GenerateResource.Cache
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.exe
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.pdb
+C:\Users\edgar\OneDrive\Documentos\Visual Studio 2015\Projects\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Form1.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Dashboard.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ListadoProyectos.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Login.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoPersonal.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoProyecto.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Properties.Resources.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.exe
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.pdb
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe.config
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.pdb
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\MySql.Data.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Buffers.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Memory.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\ZstdNet.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.pdb
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\MySql.Data.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\MySqlConnector.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Buffers.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Memory.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.CopyComplete
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ListadoPersonal.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ProyectosCreados.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.TablaArchivos.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.DatosGenerales.resources
+C:\Users\edgar\source\repos\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NewProyecto.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe.config
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.pdb
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\MySql.Data.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Buffers.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Memory.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\ZstdNet.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\MySql.Data.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\MySqlConnector.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Buffers.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Memory.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.AssemblyReference.cache
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Dashboard.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.DatosGenerales.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ListadoPersonal.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ListadoProyectos.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Login.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NewProyecto.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoPersonal.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoProyecto.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Properties.Resources.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ProyectosCreados.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.TablaArchivos.resources
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.GenerateResource.cache
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.CopyComplete
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.exe
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.pdb
+C:\Users\Vivobook\Documents\Proyecto 2023\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe.config
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.exe
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\GonsadSoft.pdb
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\MySql.Data.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Buffers.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Memory.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\ZstdNet.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.pdb
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\Google.Protobuf.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\MySql.Data.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\MySqlConnector.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Buffers.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Memory.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Dashboard.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Login.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NewProyecto.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoPersonal.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.NuevoProyecto.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.TablaArchivos.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.csproj.CopyComplete
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.exe
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.pdb
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.AsignacionProyectos.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ProyectosResumen.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.ListadoProyectos.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.Clientes.resources
+C:\Users\edgar\OneDrive\Desktop\GonsadSoft\GonsadSoft\GonsadSoft\obj\Debug\GonsadSoft.SendFiles.resources
