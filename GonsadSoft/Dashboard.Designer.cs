@@ -57,6 +57,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.customInstaller1 = new MySql.Data.MySqlClient.CustomInstaller();
             this.panelEscritorio = new System.Windows.Forms.Panel();
+            this.iconButton1 = new FontAwesome.Sharp.IconButton();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -76,7 +77,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1517, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1663, 28);
             this.menuStrip1.TabIndex = 16;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -203,6 +204,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
+            this.panel1.Controls.Add(this.iconButton1);
             this.panel1.Controls.Add(this.btnListadoProyectos);
             this.panel1.Controls.Add(this.btnNuevoPersonal);
             this.panel1.Controls.Add(this.btnProyectosCategorias);
@@ -210,8 +212,9 @@
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 28);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(354, 708);
+            this.panel1.Size = new System.Drawing.Size(355, 895);
             this.panel1.TabIndex = 28;
             // 
             // btnListadoProyectos
@@ -227,10 +230,11 @@
             this.btnListadoProyectos.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnListadoProyectos.IconSize = 32;
             this.btnListadoProyectos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnListadoProyectos.Location = new System.Drawing.Point(0, 332);
+            this.btnListadoProyectos.Location = new System.Drawing.Point(0, 335);
+            this.btnListadoProyectos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnListadoProyectos.Name = "btnListadoProyectos";
-            this.btnListadoProyectos.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
-            this.btnListadoProyectos.Size = new System.Drawing.Size(354, 61);
+            this.btnListadoProyectos.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.btnListadoProyectos.Size = new System.Drawing.Size(355, 62);
             this.btnListadoProyectos.TabIndex = 4;
             this.btnListadoProyectos.Text = "Listado de Proyectos";
             this.btnListadoProyectos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -251,10 +255,11 @@
             this.btnNuevoPersonal.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnNuevoPersonal.IconSize = 32;
             this.btnNuevoPersonal.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNuevoPersonal.Location = new System.Drawing.Point(0, 271);
+            this.btnNuevoPersonal.Location = new System.Drawing.Point(0, 273);
+            this.btnNuevoPersonal.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnNuevoPersonal.Name = "btnNuevoPersonal";
-            this.btnNuevoPersonal.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
-            this.btnNuevoPersonal.Size = new System.Drawing.Size(354, 61);
+            this.btnNuevoPersonal.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.btnNuevoPersonal.Size = new System.Drawing.Size(355, 62);
             this.btnNuevoPersonal.TabIndex = 3;
             this.btnNuevoPersonal.Text = "Nuevo Personal";
             this.btnNuevoPersonal.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -275,10 +280,11 @@
             this.btnProyectosCategorias.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnProyectosCategorias.IconSize = 32;
             this.btnProyectosCategorias.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnProyectosCategorias.Location = new System.Drawing.Point(0, 210);
+            this.btnProyectosCategorias.Location = new System.Drawing.Point(0, 211);
+            this.btnProyectosCategorias.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnProyectosCategorias.Name = "btnProyectosCategorias";
-            this.btnProyectosCategorias.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
-            this.btnProyectosCategorias.Size = new System.Drawing.Size(354, 61);
+            this.btnProyectosCategorias.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.btnProyectosCategorias.Size = new System.Drawing.Size(355, 62);
             this.btnProyectosCategorias.TabIndex = 2;
             this.btnProyectosCategorias.Text = "Proyectos por Categorias";
             this.btnProyectosCategorias.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -299,9 +305,10 @@
             this.btnProyectosArchivos.IconSize = 32;
             this.btnProyectosArchivos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnProyectosArchivos.Location = new System.Drawing.Point(0, 149);
+            this.btnProyectosArchivos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnProyectosArchivos.Name = "btnProyectosArchivos";
-            this.btnProyectosArchivos.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
-            this.btnProyectosArchivos.Size = new System.Drawing.Size(354, 61);
+            this.btnProyectosArchivos.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.btnProyectosArchivos.Size = new System.Drawing.Size(355, 62);
             this.btnProyectosArchivos.TabIndex = 1;
             this.btnProyectosArchivos.Text = "Proyectos por Indice";
             this.btnProyectosArchivos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -316,8 +323,9 @@
             this.panel2.Controls.Add(this.pictureBox1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(354, 149);
+            this.panel2.Size = new System.Drawing.Size(355, 149);
             this.panel2.TabIndex = 0;
             // 
             // label1
@@ -333,7 +341,8 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::GonsadSoft.Properties.Resources.g2;
-            this.pictureBox1.Location = new System.Drawing.Point(18, 27);
+            this.pictureBox1.Location = new System.Drawing.Point(19, 27);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 97);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -343,18 +352,44 @@
             // panelEscritorio
             // 
             this.panelEscritorio.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelEscritorio.Location = new System.Drawing.Point(354, 28);
+            this.panelEscritorio.Location = new System.Drawing.Point(355, 28);
+            this.panelEscritorio.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelEscritorio.Name = "panelEscritorio";
-            this.panelEscritorio.Size = new System.Drawing.Size(1163, 708);
+            this.panelEscritorio.Size = new System.Drawing.Size(1308, 895);
             this.panelEscritorio.TabIndex = 29;
             this.panelEscritorio.TabStop = true;
             this.panelEscritorio.Paint += new System.Windows.Forms.PaintEventHandler(this.panelEscritorio_Paint);
+            // 
+            // iconButton1
+            // 
+            this.iconButton1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
+            this.iconButton1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.iconButton1.FlatAppearance.BorderSize = 0;
+            this.iconButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton1.Font = new System.Drawing.Font("Century Gothic", 10.8F);
+            this.iconButton1.ForeColor = System.Drawing.Color.Gainsboro;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.Upload;
+            this.iconButton1.IconColor = System.Drawing.Color.Gainsboro;
+            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton1.IconSize = 32;
+            this.iconButton1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButton1.Location = new System.Drawing.Point(0, 397);
+            this.iconButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.iconButton1.Name = "iconButton1";
+            this.iconButton1.Padding = new System.Windows.Forms.Padding(11, 0, 20, 0);
+            this.iconButton1.Size = new System.Drawing.Size(355, 62);
+            this.iconButton1.TabIndex = 5;
+            this.iconButton1.Text = "Listado de Proyectos";
+            this.iconButton1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.iconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.iconButton1.UseVisualStyleBackColor = false;
+            this.iconButton1.Click += new System.EventHandler(this.iconButton1_Click_1);
             // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1517, 736);
+            this.ClientSize = new System.Drawing.Size(1663, 923);
             this.Controls.Add(this.panelEscritorio);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menuStrip1);
@@ -404,5 +439,6 @@
         private System.Windows.Forms.ToolStripSeparator sepToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem calculoProyectoToolStripMenuItem;
         private FontAwesome.Sharp.IconButton btnListadoProyectos;
+        private FontAwesome.Sharp.IconButton iconButton1;
     }
 }

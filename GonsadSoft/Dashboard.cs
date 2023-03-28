@@ -139,5 +139,10 @@ namespace GonsadSoft
         {
             OpenChildForm(new SendFiles());
         }
+
+        private void iconButton1_Click_1(object sender, EventArgs e)
+        {
+            OpenChildForm(new test1());
+        }
     }
 }

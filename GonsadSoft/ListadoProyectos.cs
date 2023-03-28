@@ -6,6 +6,8 @@ using GonsadSoft.Clases;
 using MySql.Data.MySqlClient;
 using System.IO;
 using System.Diagnostics;
+using ADODB;
+using Microsoft.Win32;
 
 namespace GonsadSoft
 {
@@ -13,14 +15,26 @@ namespace GonsadSoft
     {
         Conexion conn = new Conexion();
 
+        private MySqlConnection connection;
+        private MySqlCommand command;
+        private MySqlDataAdapter adapter;
+
+        
+
+
         public static List<Nodo> nodos;
         //public static List<Elemento> elementos;
         public DataSet dtsN = null;
+        private bool fileStream;
+
+        public string FilePath { get; private set; }
+        public string FileContent { get; private set; }
 
         public ListadoProyectos()
         {
             InitializeComponent();
 
+            
             CargarDatosSQL();
 
         }
@@ -215,6 +229,64 @@ namespace GonsadSoft
         {
             NewProyecto frm = new NewProyecto();
             frm.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            var fileContent = string.Empty;
+            var filePath = string.Empty;
+
+            OpenDialog.InitialDirectory = "C:\\Gonsad";
+            OpenDialog.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            OpenDialog.FilterIndex = 2;
+            OpenDialog.RestoreDirectory = true;
+
+            if (OpenDialog.ShowDialog() == DialogResult.OK)
+            {
+                //Get the path of specified file
+                FilePath = OpenDialog.FileName;
+
+                //Read the contents of the file into a stream
+                var fileStream = OpenDialog.OpenFile();
+
+                using (StreamReader reader = new StreamReader(fileStream))
+                {
+                    FileContent = reader.ReadToEnd();
+                }
+            }
+
+            Console.WriteLine("PATH: "+FilePath);
+            Console.WriteLine(fileStream);
+            Console.WriteLine(FileContent);
+
+
+
+            foreach (string file in Directory.GetFiles(@"C:\\Gonsad"))
+            {
+                string consulta = "INSERT INTO files VALUES (NULL, " + file + ")";
+
+                MySqlDataAdapter da = new MySqlDataAdapter(consulta, conn.Conectar());
+                //command.Parameters.AddWithValue("@filename", file);
+                conn.CerrarConexion();
+            }
+           
+            MessageBox.Show("Files saved to database.");
+        }
+
+        private void btnVercodigo_Click(object sender, EventArgs e)
+        {
+               
+        }
+
+        private void agregarCategoriaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int uno = treeProyectos.SelectedNode.Index;
+            MessageBox.Show(""+uno);
         }
     }
 
